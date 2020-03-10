@@ -1,0 +1,1 @@
+From openweathermap.org, create an account, get the api key and find the city id, which you can find in the address bar
